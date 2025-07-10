@@ -5,7 +5,7 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 
 ---
 
-## 🛠️ Pila Tecnológica
+## 🛠️ Lenguajes
 
 ### 🔙 Back-End  
 [![Backend](https://skillicons.dev/icons?i=java,php,laravel,symfony,go&theme=light)](https://skillicons.dev)  
@@ -21,9 +21,7 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 
 [![Bases de Datos](https://skillicons.dev/icons?i=postgres,sql&theme=light)](https://skillicons.dev)
 
-<a href="https://dbeaver.io/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40" alt="DBeaver"/>
-</a>  
+<a href="https://dbeaver.io/" target="_blank"> <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40" alt="DBeaver"/></a>  
 **DBeaver**
 
 ---
