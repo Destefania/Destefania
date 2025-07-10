@@ -69,9 +69,10 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 **Discord**
 
 <a href="https://dbeaver.io/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40" alt="DBeaver"/>
+  <img src="https://2024.allthingsopen.org/sponsors/dbeaver" width="40" height="40" alt="DBeaver"/>
 </a>  
 **DBeaver**
+
 
 
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/></a>  
