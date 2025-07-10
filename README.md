@@ -68,8 +68,11 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" height="40" alt="Discord"/></a>  
 **Discord**
 
-<a href="https://dbeaver.io/" target="_blank"><img src="https://raw.githubusercontent.com/dbeaver/dbeaver/33e84a7c0dd64a979df6d353aaf35e7a7b9725cf/plugins/org.jkiss.dbeaver.ui/icons/dbeaver.png" width="40" height="40" alt="DBeaver"/></a>
+<a href="https://dbeaver.io/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/database.png" width="40" height="40" alt="DBeaver"/>
+</a>  
 **DBeaver**
+
 
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/></a>  
 **LinkedIn**
