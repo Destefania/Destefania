@@ -7,7 +7,7 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 
 ## 🛠️ Lenguajes y Herramientas
 
-### 🔙 Back-End  
+###  Back-End  
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>  
 **Java**
 
@@ -68,7 +68,7 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" height="40" alt="Discord"/></a>  
 **Discord**
 
-<a href="#"><img src="https://raw.githubusercontent.com/dbeaver/dbeaver/33e84a7c0dd64a979df6d353aaf35e7a7b9725cf/plugins/org.jkiss.dbeaver.ui/icons/dbeaver.png" width="40" height="40" alt="DBeaver"/></a>  
+<a href="https://dbeaver.io/" target="_blank"><img src="https://raw.githubusercontent.com/dbeaver/dbeaver/33e84a7c0dd64a979df6d353aaf35e7a7b9725cf/plugins/org.jkiss.dbeaver.ui/icons/dbeaver.png" width="40" height="40" alt="DBeaver"/></a>
 **DBeaver**
 
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/></a>  
@@ -93,7 +93,7 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 😄 Pronombres: **estefa**  
 ⚡ **Dato curioso**: También me apasiona la enseñanza. El año pasado participé como **mentora en MentorTIC** y colaboré con grandes expertos en programación y gestión de proyectos con propósito.  
 
-<a href="https://images.app.goo.gl/ggRc1FpEUmCETWsh9" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-mentor-academic-flat-flat-juicy-fish.png" width="40" height="40" alt="Mentora TIC"/></a>  
+<a href="https://www.linkedin.com/company/mentortic-edtech/?originalSubdomain=co" target="_blank"></a>  
 **Mentora TIC**
 
 ---
