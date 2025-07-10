@@ -5,11 +5,11 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 
 ---
 
-## 🛠️ Pila Tecnológica
+## 🛠️ Lenguajes y Herramientas
 
 [![Tecnologías](https://skillicons.dev/icons?i=java,php,laravel,html,css,bootstrap,js,postman,git,github,agile,vscode,discord,jira,bitbucket&theme=light&perline=7)](https://skillicons.dev)
 
-*(Incluye: Java, PHP, Laravel, HTML5, CSS3, Bootstrap, JavaScript, Postman, Git, GitHub, Agile, VS Code, Discord, Jira, Bitbucket)*
+Java, PHP, Laravel, HTML5, CSS3, Bootstrap, JavaScript, Postman, Git, GitHub, Agile, VS Code, Discord, Jira, Bitbucket
 
 ---
 
