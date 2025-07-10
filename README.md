@@ -8,8 +8,8 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 ## 🛠️ Pila Tecnológica
 
 ### 🔙 Back-End  
-[![Backend](https://skillicons.dev/icons?i=java,php,laravel&theme=light)](https://skillicons.dev)  
-*(Java, PHP, Laravel)*
+[![Backend](https://skillicons.dev/icons?i=java,php,laravel,symfony,go&theme=light)](https://skillicons.dev)  
+*(Java, PHP, Laravel, Symfony, Go)*
 
 ### 🎨 Front-End  
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=light)](https://skillicons.dev)  
@@ -55,7 +55,9 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 
 ## 🚀 Mentora TIC
 
-<a href="https://www.linkedin.com/company/mentortic-edtech/?originalSubdomain=co" target="_blank"></a>  
+<a href="https://images.app.goo.gl/ggRc1FpEUmCETWsh9" target="_blank">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-mentor-academic-flat-flat-juicy-fish.png" width="40" height="40" alt="Mentora TIC"/>
+</a>  
 **Mentora TIC**
 
 ---
