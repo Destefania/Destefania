@@ -1,7 +1,7 @@
 # ¡Hola, Bienvenidos a mi GitHub! 👋🏼  
 ### Back-End Software Developer 👩🏼‍💻
 
-Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y Programación 🌐**, con una sólida experiencia de más de **4 años** en una variedad de tecnologías.
+Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y Programación 🌐**, con una sólida experiencia de más de **6 años** en una variedad de tecnologías.
 
 ---
 
