@@ -1,5 +1,5 @@
 # ¡Hola, Bienvenidos a mi GitHub! 👋🏼  
-### Back-End Software Developer 👩🏼‍💻
+### Software Developer 👩🏼‍💻
 
 Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y Programación 🌐**, con una sólida experiencia de más de **6 años** en una variedad de tecnologías.
 
@@ -7,7 +7,7 @@ Cuento con conocimientos e interés por el área de **Ingeniería de Sistemas y 
 
 ## 🛠️ Lenguajes
 
-### 🔙 Back-End  
+### Back-End  
 [![Backend](https://skillicons.dev/icons?i=java,php,laravel,symfony,go&theme=light)](https://skillicons.dev)  
 *(Java, PHP, Laravel, Symfony, Go)*
 
